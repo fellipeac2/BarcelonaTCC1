@@ -1,4 +1,4 @@
 BarcelonaTCC1
 =============
 
-Sistema desktop para a pizzaria Barcelona.
+Sistema de computador para a pizzaria Barcelona.
