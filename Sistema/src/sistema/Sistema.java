@@ -4,6 +4,8 @@
  */
 package sistema;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author aluno
@@ -14,6 +16,6 @@ public class Sistema {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!!");
+        JOptionPane.showMessageDialog(null, "fasdfas");
     }
 }
